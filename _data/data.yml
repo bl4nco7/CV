@@ -275,10 +275,10 @@ publications:
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  - title: Métrica assimétrica de Fubini-Study na grassmanniana toral
+    link: "https://repositorio.ufba.br/handle/ri/37473"
+    authors: Blanco Garcia, Drahcir Alexander et al.
+    conference: Universidade Federal da Bahia
 
   - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     link: "#"
@@ -309,26 +309,17 @@ recommendations:
       He is a great employee!
 
 skills:
-  title: Skills &amp; Proficiency
+  title: Habilidades # &amp; Proficiency
 
   toolset:
-  - name: Python & Django
+  - name: Python
+    level: 70%
+
+  - name: R
+    level: 80%
+
+  - name: LaTex
     level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
-    level: 95%
-
-  - name: Ruby on Rails
-    level: 85%
-
-  - name: Sketch & Photoshop
-    level: 60%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
