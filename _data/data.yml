@@ -275,38 +275,30 @@ publications:
     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     bibendum fringilla a eu lectus.
   papers:
-  - title: Métrica assimétrica de Fubini-Study na grassmanniana toral
+  - title: Métrica assimétrica de Fubini-Study na grassmanniana total
     link: "https://repositorio.ufba.br/handle/ri/37473"
-    authors: Blanco Garcia, Drahcir Alexander et al.
+    authors: Blanco Garcia, Drahcir Alexander
     conference: Universidade Federal da Bahia
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #link: "#"
+    #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  #- title: A syntax directed compiler for Algol 60
+    #link: "#"
+    #authors: Edgar T. Irons
+    #conference: "Comm. ACM 4 (1961), 51–55"
 
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+#recommendations:
+  #title: Recommendations
+  #list:
+  #- person: Yareli Perez
+    #email: perezyareli@example.com
+    #phone: 012 345 6789
+    #role: General Director at example.com
+    #recommendation: |
+      #Alan Doe is a super employee!
 
 skills:
   title: Habilidades # &amp; Proficiency
