@@ -8,68 +8,63 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
+  name: Drahcir A. Blanco Garcia
+  tagline: Doutorando em matemática na Universidade Federal da Bahia.
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: blancodrahcir@gmail.com
+  phone: +55 16 988 27 1756
+  timezone: Salvador de Bahia, Brasil # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
-  telegram: # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  mastodon: # Please include your full Mastodon link here.
-  hackerrank: # Please provide your HackerRank username.
-  leetcode: # Please provide your LeetCode username.
+  website: https://lattes.cnpq.br/9361255276021902 # Include the full website URL, including "http://" or "https://".
+  linkedin: bl4nco7
+  #xing: alandoe
+  github: bl4nco7
+  #telegram: # add your nickname without '@' sign
+  #gitlab:
+  #bitbucket:
+  #bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
+  #twitter: '@jekyllrb'
+  #stack-overflow: # Number/Username, e.g. 123456/alandoe
+  #codewars:
+  #goodreads: # Number-Username, e.g. 123456-alandoe
+  #mastodon: # Please include your full Mastodon link here.
+  #hackerrank: # Please provide your HackerRank username.
+  #leetcode: # Please provide your LeetCode username.
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   languages:
     title: Languages
     info:
-    - idiom: English
-      level: Native
+    - idiom: Espanhol
+      level: Nativo
 
-    - idiom: French
-      level: Professional
+    - idiom: Português
+      level: C2
 
-    - idiom: Spanish
-      level: Professional
+    - idiom: Inglês
+      level: B1
 
-  interests:
-    title: Interests
-    info:
-    - item: Climbing
-      link:
-
-
-    - item: Snowboarding
-      link:
+  #interests:
+    #title: Interests
+    #info:
+    #- item: Climbing
+     # link:
 
 
-    - item: Cooking
-      link:
+    #- item: Snowboarding
+      #link:
+
+
+    #- item: Cooking
+      #link:
 
 
 career-profile:
-  title: Career Profile
+  title: Resumo
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Graduado em Ciências Matemáticas com uma sólida formação em álgebra, cálculo diferencial, integral e vetorial, além de geometria básica e diferencial. Possuo conhecimento avançado em programação com R e Python, e experiência em análise de dados e modelagem matemática. Com forte capacidade para resolver problemas complexos, apliquei minhas habilidades em otimização matemática e métodos numéricos em diversas áreas, desde pesquisas acadêmicas até projetos de análise de dados na indústria. Meu objetivo é continuar desenvolvendo minhas habilidades e aplicar meu conhecimento para resolver desafios interdisciplinares em matemática e ciência de dados. 
 education:
   title: Education
   info:
@@ -97,52 +92,31 @@ education:
         - Bullet point
 
 experiences:
-  title: Experiences
+  title: Experiência
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Monitor de Cálculo Integral
+    time: 02/2013 – 06/2019
+    company: Universidad Centroccidental Lisandro Alvarado, Venezuela
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Participação ativa no desenvolvimento do trabalho pedagógico na disciplina de Cálculo Integral, resolvendo exercícios com os alunos e esclarecendo conceitos fundamentais de cálculo.
+  #- role: Senior Software Engineer
+    #time: 2014 - 2015
+    #company: Google, London
+    #details: |
+      #Describe your role here lorem ipsum dolor sit amet, consectetuer
+      #adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+     # Cum sociis natoque penatibus et magnis dis parturient montes,
+      #nascetur ridiculus mus. Donec quam felis, ultricies nec,
+      #pellentesque eu, pretium quis, sem.
+        #- Bullet point
+        #- Bullet point 
 
 certifications:
-  title: Certifications
+  title: Python para Ciência de Dados, Exploração e Visualização de dados
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
+  - name: Universidade Federal da Bahia, UFBA, Brasil
+    start: 2025
+    end:  
     organization: Microsoft
     credentialid: 111-222
     credentialurl: www.google.com
@@ -161,6 +135,22 @@ certifications:
       fringilla vel. Ut euismod, sem sed vulputate venenatis,
       justo diam viverra velit, sed rhoncus leo leo eu justo.
       Suspendisse placerat risus ante, sed porta nisi blandit at.
+  - name: Git learning
+    start: 2019
+    end:
+    organization: Microsoft
+    credentialid: 111-222
+    credentialurl: www.github.com
+    credentialname: Github
+    details: |
+      Older certification. Lorem ipsum dolor sit amet, consectetur
+      adipiscing elit.
+      Nullam eget orci purus. Nullam ultrices neque nibh.
+      Aenean fermentum, felis vulputate suscipit accumsan,
+      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
+      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
+      Praesent venenatis erat non augue suscipit consectetur.
   - name: Git learning
     start: 2019
     end:
