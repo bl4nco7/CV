@@ -41,10 +41,10 @@ sidebar:
       level: Nativo
 
     - idiom: Português
-      level: C2
+      level: C2 - Fluente
 
     - idiom: Inglês
-      level: B1
+      level: B1 - Intermediario, em aprefeiçonamento
 
   #interests:
     #title: Interests
@@ -126,7 +126,7 @@ experiences:
 certifications:
   title: Educação Complementar
   list:
-  - name: Python para Ciência de Dados, Exploração e Visualização de dados
+  - name: Python para Ciência de Dados\: Exploração e Visualização de dados
     start: 2025
     end:  
     organization: Universidade Federal da Bahia, UFBA, Brasil
