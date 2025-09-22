@@ -124,8 +124,8 @@ experiences:
         #- Bullet point 
 
 certifications:
-title: Educação Complementar
-list:
+  title: Educação Complementar
+  list:
   - name: Estatística e Otimização para Ciência de Dados e Pesquisa Operacional
     start: 2025
     end: 
