@@ -153,15 +153,6 @@ list:
     credentialname: 
     details: |
 
-  - name: Curso de Extensão em Cálculo Avançado
-    start: 2020
-    end:
-    organization: Universidade de São Paulo, USP, Brasil
-    credentialid: 120 horas
-    credentialurl: 
-    credentialname: 
-    details: |
-
   - name: Curso de Extensão em Funções de uma Variável Complexa
     start: 2023
     end:
@@ -176,6 +167,15 @@ list:
     end:
     organization: Universidade Federal do Rio de Janeiro, UFRJ, Brasil
     credentialid: 60 horas
+    credentialurl: 
+    credentialname: 
+    details: |
+
+  - name: Curso de Extensão em Cálculo Avançado
+    start: 2020
+    end:
+    organization: Universidade de São Paulo, USP, Brasil
+    credentialid: 120 horas
     credentialurl: 
     credentialname: 
     details: |
