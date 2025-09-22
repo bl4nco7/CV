@@ -125,16 +125,7 @@ experiences:
 
 certifications:
   title: Educação Complementar
-  list:
-  - name: Python para Ciência de Dados, Exploração e Visualização de dados
-    start: 2025
-    end:  
-    organization: Universidade Federal da Bahia, UFBA, Brasil
-    credentialid: 10 horas
-    credentialurl: 
-    credentialname: 
-    details: |
-    
+list:
   - name: Estatística e Otimização para Ciência de Dados e Pesquisa Operacional
     start: 2025
     end: 
@@ -144,6 +135,15 @@ certifications:
     credentialname:  
     details: |
       
+  - name: Python para Ciência de Dados, Exploração e Visualização de dados
+    start: 2025
+    end:  
+    organization: Universidade Federal da Bahia, UFBA, Brasil
+    credentialid: 10 horas
+    credentialurl: 
+    credentialname: 
+    details: |
+    
   - name: Curso de Extensão em Análise Funcional
     start: 2024
     end:
@@ -153,7 +153,7 @@ certifications:
     credentialname: 
     details: |
 
-  - name: Curso de Extensão em Funções de uma Variável Complexa
+  - name: Curso de Extensão em Cálculo Avançado
     start: 2023
     end:
     organization: Universidade de São Paulo, USP, Brasil
@@ -162,7 +162,7 @@ certifications:
     credentialname: 
     details: |
 
-  - name: Curso de Extensão em Cálculo Avançado
+  - name: Curso de Extensão em Funções de uma Variável Complexa
     start: 2023
     end:
     organization: Universidade de São Paulo, USP, Brasil
