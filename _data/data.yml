@@ -140,8 +140,8 @@ certifications:
     end:  
     organization: Universidade Federal da Bahia, UFBA, Brasil
     credentialid: 10 horas
-    credentialurl: 
-    credentialname: 
+    credentialurl: https://certificadorsiatex.ufba.br/certificadorSiatex/certificado.jsf?pce=347083&hash=2F60779C19QJJ9UK&equ=0
+    credentialname: certificado do curso
     details: |
     
   - name: Curso de Extensão em Análise Funcional
@@ -180,7 +180,7 @@ certifications:
     credentialname: 
     details: |
 
-  - name: Minicurso, Programação Polar
+  - name: "Minicurso: Programação Polar"
     start: 2018
     end:
     organization: XXXI Escola Venezuelana de Matemática, Mérida, Venezuela
@@ -189,7 +189,7 @@ certifications:
     credentialname: 
     details: |
 
-  - name: Minicurso, Combinatória Simbólica e Analítica
+  - name: "Minicurso: Combinatória Simbólica e Analítica"
     start: 2017
     end:
     organization: XXX Escola Venezuelana de Matemática, Mérida, Venezuela
@@ -198,7 +198,7 @@ certifications:
     credentialname: 
     details: |
 
-  - name: Minicurso, Curso Introdutório sobre Inclusões Diferenciáveis
+  - name: "Minicurso: Curso Introdutório sobre Inclusões Diferenciáveis"
     start: 2016
     end:
     organization: XXIX Escola Venezuelana de Matemática, Mérida, Venezuela
@@ -207,7 +207,7 @@ certifications:
     credentialname: 
     details: |
 
-  - name: Minicurso, Introdução aos Anéis Finitos e Suas Aplicações
+  - name: "Minicurso: Introdução aos Anéis Finitos e Suas Aplicações"
     start: 2014
     end:
     organization: XXVII Escola Venezuelana de Matemática, Mérida, Venezuela
@@ -216,7 +216,7 @@ certifications:
     credentialname: 
     details: |
 
-  - name: Minicurso, Matemática das Eleições
+  - name: "Minicurso: Matemática das Eleições"
     start: 2013
     end:
     organization: XXVI Escola Venezuelana de Matemática, Mérida, Venezuela
