@@ -15,8 +15,8 @@ sidebar:
   # Sidebar links
   email: blancodrahcir@gmail.com
   phone: +55 16 988 27 1756
-  timezone: Salvador de Bahia, Brasil # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
-  citizenship:
+  timezone:  # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  citizenship: Salvador de Bahia, Brasil
   #website: https://lattes.cnpq.br/9361255276021902 # Include the full website URL, including "http://" or "https://".
   linkedin: bl4nco7
   #xing: alandoe
@@ -32,7 +32,7 @@ sidebar:
   #mastodon: # Please include your full Mastodon link here.
   #hackerrank: # Please provide your HackerRank username.
   #leetcode: # Please provide your LeetCode username.
-  pdf: assets/CV 1/CV DABG.pdf 
+  pdf: assets/CV 1/CV DABG.pdf
 
   languages:
     title: Idiomas
