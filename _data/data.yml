@@ -134,7 +134,16 @@ certifications:
     credentialurl: 
     credentialname:  
     details: |
-      
+
+  - name: "R para Ciência de Dados: Exploração e Visualização de Dados"
+    start: 2025
+    end:  
+    organization: Universidade Federal da Bahia (UFBA), Brasil
+    credentialid: 10 horas
+    credentialurl: # https://certificadorsiatex.ufba.br/certificadorSiatex/certificado.jsf?pce=351364&hash=XWO1FVL7D4LL1I2Q&equ=0
+    credentialname: # Certificado do curso
+    details: |
+    
   - name: "Python para Ciência de Dados: Exploração e Visualização"
     start: 2025
     end:  
