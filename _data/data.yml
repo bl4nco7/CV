@@ -171,11 +171,20 @@ certifications:
     credentialurl: 
     credentialname: 
     details: |
+    
+  - name: Curso de Extensão em Introdução à Teoria das Probabilidades
+    start: 2021
+    end:
+    organization: Universidade Federal do Rio de Janeiro, UFRJ, Brasil
+    credentialid: 60 horas
+    credentialurl: 
+    credentialname: 
+    details: |
 
   - name: Curso de Extensão em Introdução à Análise Real
     start: 2021
     end:
-    organization: Universidade Federal do Rio de Janeiro, UFRJ, Brasil
+    organization: Universidade de São Paulo, USP, Brasil
     credentialid: 60 horas
     credentialurl: 
     credentialname: 
