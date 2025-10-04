@@ -154,7 +154,7 @@ certifications:
     details: |
 
     
-  - name: Curso de Extensão em Análise Funcional
+  - name: Análise Funcional
     start: 2024
     end:
     organization: Universidade Federal da Bahia, UFBA, Brasil
@@ -163,7 +163,7 @@ certifications:
     credentialname: 
     details: |
 
-  - name: Curso de Extensão em Funções de uma Variável Complexa
+  - name: Funções de uma Variável Complexa
     start: 2023
     end:
     organization: Universidade de São Paulo, USP, Brasil
@@ -172,7 +172,7 @@ certifications:
     credentialname: 
     details: |
     
-  - name: Curso de Extensão em Introdução à Teoria das Probabilidades
+  - name: Introdução à Teoria das Probabilidades
     start: 2021
     end:
     organization: Universidade Federal do Rio de Janeiro, UFRJ, Brasil
@@ -181,7 +181,7 @@ certifications:
     credentialname: 
     details: |
 
-  - name: Curso de Extensão em Introdução à Análise Real
+  - name: Introdução à Análise Real
     start: 2021
     end:
     organization: Universidade de São Paulo, USP, Brasil
@@ -190,7 +190,7 @@ certifications:
     credentialname: 
     details: |
 
-  - name: Curso de Extensão em Cálculo Avançado
+  - name: Cálculo Avançado
     start: 2020
     end:
     organization: Universidade de São Paulo, USP, Brasil
