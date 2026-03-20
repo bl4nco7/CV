@@ -126,10 +126,10 @@ experiences:
   title: Apresentações em congressos
   info:
   - role: Métrica Assimétrica de Fubini-Study na Grassmanniana total
-    time: 11/2025
+    time: 11-2025
     company: X Encontro da Pós-Graduação em Matemática da UFBA (X EPGMAT)
     details: |
-      Participação ativa no desenvolvimento do trabalho pedagógico na disciplina de Cálculo Integral,
+    # Participação ativa no desenvolvimento do trabalho pedagógico na disciplina de Cálculo Integral,
 
 certifications:
   title: Educação Complementar
