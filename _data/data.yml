@@ -244,20 +244,6 @@ certifications:
     credentialname: 
     details: |
  
-education:
-  title: Apresentações em congressos 
-  info:
-  - degree: QEU CLACREO
-    university: Universidade Federal da Bahia, UFBA, Brasil
-    time: 2023 - Atual
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
   #intro: >
    # You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   #assignments:
