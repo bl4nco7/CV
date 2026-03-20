@@ -246,6 +246,15 @@ certifications:
  
 projects:
   title: Apresentações em congressos
+  list:
+  - name: QUE LACREO
+    start: 2025
+    end: 
+    organization: Universidade de São Paulo, USP, Brasil
+    credentialid: 60 horas
+    credentialurl: portalservicos.usp.br/iddigital/B5IF-AMSQ-7VNA-TK3B
+    credentialname: Certificado
+    details: |
   #intro: >
    # You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   #assignments:
