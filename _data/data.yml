@@ -244,14 +244,14 @@ certifications:
     credentialname: 
     details: |
  
-#projects:
-  #title: Projects
+projects:
+  title: Apresentações em congressos
   #intro: >
    # You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   #assignments:
-  #- title: Velocity
+  - title: Métrica Assimétrica de Fubini-Study na Grassmanniana total
     #link: "#hook"
-    #tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "X Encontro da Pós-Graduação em Matemática da UFBA (X EPGMAT)"
 
   #- title: DevStudio
     #link: "#"
