@@ -244,17 +244,20 @@ certifications:
     credentialname: 
     details: |
  
-projects:
-  title: Apresentações em congressos
-  list:
-  - name: QUE LACREO
-    start: 2025
-    end: 
-    organization: Universidade de São Paulo, USP, Brasil
-    credentialid: 60 horas
-    credentialurl: portalservicos.usp.br/iddigital/B5IF-AMSQ-7VNA-TK3B
-    credentialname: Certificado
+education:
+  title: Apresentações em congressos 
+  info:
+  - degree: QEU CLACREO
+    university: Universidade Federal da Bahia, UFBA, Brasil
+    time: 2023 - Atual
     details: |
+      Describe your study here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      sociis natoque penatibus et magnis dis parturient montes, nascetur
+      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      pretium quis, sem.
+        - Bullet point
+        - Bullet point
   #intro: >
    # You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   #assignments:
