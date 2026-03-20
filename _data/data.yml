@@ -249,7 +249,7 @@ projects:
   #intro: >
    # You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
   #assignments:
-  - title: Métrica Assimétrica de Fubini-Study na Grassmanniana total
+  #- title: Métrica Assimétrica de Fubini-Study na Grassmanniana total
     #link: "#hook"
     #tagline: "X Encontro da Pós-Graduação em Matemática da UFBA (X EPGMAT)"
 
